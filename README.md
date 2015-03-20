@@ -4,3 +4,5 @@ Personal site on GitHub
 URL: http://igorsol.github.io/
 
 Links to additional information are at: https://pages.github.com/
+
+Getting Started with Github Pages: https://guides.github.com/features/pages/
